@@ -2,6 +2,7 @@ Fork-Version feature:
 
 1. Use fontawesome icon / or others instead of default icon
 
+Fork [demo][http://plnkr.co/edit/rrOokqccsgylpF0zxJNu?p=preview]
 
 AngularJS-Toaster
 =================
