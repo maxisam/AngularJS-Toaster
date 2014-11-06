@@ -1,3 +1,8 @@
+Fork-Version feature:
+
+1. Use fontawesome icon / or others instead of default icon
+
+
 AngularJS-Toaster
 =================
 
