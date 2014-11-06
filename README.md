@@ -6,7 +6,7 @@ Fork [Demo](http://plnkr.co/edit/rrOokqccsgylpF0zxJNu?p=preview)
 
 Change font-icon-classes in config section to whatever fonticon library you like.
 
-currently I used fontawesome.
+Currently I used fontawesome.
 
 AngularJS-Toaster
 =================
